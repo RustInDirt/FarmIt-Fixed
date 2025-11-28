@@ -1,4 +1,5 @@
 📦 FarmIt (Vanilla 1.12.1 Fixed Version)
+
 A fixed version of the FarmIt addon from World of Warcraft: The Burning Crusade.
 
 FarmIt is a lightweight farming tracker originally created for World of Warcraft: The Burning Crusade.
