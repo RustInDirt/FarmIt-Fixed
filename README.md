@@ -35,4 +35,4 @@ Replaced deprecated/globally stored UI calls (getglobal)
 
 Fully compatible with legacy Lua versions missing string.match
 
-*Fixed using Chat-GPT
+*Fixed using ChatGPT
