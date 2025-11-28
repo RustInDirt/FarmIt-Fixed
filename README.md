@@ -1,4 +1,4 @@
-#FarmIt (Vanilla 1.12.1 Fixed Version)
+# FarmIt (Vanilla 1.12.1 Fixed Version)
 
 A fixed version of the FarmIt addon from World of Warcraft: The Burning Crusade.
 
